@@ -7,4 +7,3 @@
 - 📫 How to reach me: LinkedIn "Aditi Maheshwari"
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Two things I'm frequent at: Dance and playing with databases.
--->
