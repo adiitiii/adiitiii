@@ -25,7 +25,7 @@ It contains the flask session.
 
 Except for these, "Final Project" has:
 1. ***app.py***
-In app.py, all the important flask related session are imported which are needed to implement the code such flask_session from the flask library, generating hash for passwords 
+In app.py, all the important flask related session are imported which are needed to implement the code such flask_session from the flask library, generating hash for passwords.
 After this, in line 25 configuration from cs50 library to use the sqlite database (womanly.db) has been done.
 
 **4 routes are defined:*
