@@ -1,4 +1,4 @@
-<h1>Hi there! 👋
+Hi there! 👋
 I'm a Web Developer passionate about Technology and Open Source.
 
 💻 Tech Enthusiast: I've always been fascinated by computers and technology. I chose web development as my career because it perfectly blends my love for tech with my passion for creative problem-solving.
